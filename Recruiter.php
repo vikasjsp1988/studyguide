@@ -1,7 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Recruiter extends CI_Controller {
-
+dsdsd
   private $admin_id_session = null;
   private $admin_type_session = null;
 
